@@ -18,7 +18,7 @@ The projects demonstrate fundamental concepts of Machine Learning, Deep Learning
 
 # 📂 Assignments
 
-## 📊 Assignment 1 — Data Analysis
+## 📊 Assignment 1 — Data Analysis (FINAL 1)
 
 Perform exploratory data analysis using Python.
 
@@ -39,24 +39,24 @@ Perform exploratory data analysis using Python.
 
 ---
 
-## 📈 Assignment 2 — Linear Regression
+## 📊 Assignment 1 — Data Analysis (FINAL 1-2)
 
-Build a Linear Regression model to predict numerical values.
+Also Perform exploratory data analysis using Python but using different method.
 
 ### Topics
 
-- Feature selection
-- Train/Test Split
-- Linear Regression
-- Prediction
-- Model Evaluation
+- Dataset exploration
+- Data cleaning
+- Statistical analysis
+- Data visualization
+- Correlation analysis
 
-### Metrics
+### Libraries
 
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
-- R² Score
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ---
 
