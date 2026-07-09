@@ -15,7 +15,7 @@ from tensorflow.keras.layers import LSTM, Dense, Dropout
 
 """Loading Data"""
 
-data = pd.read_csv("RocketLab_Analytics_2010_2024.csv")
+data = pd.read_csv("Final Assignment FILES\RocketLab_Analytics_2010_2024.csv")
 
 print(data.head())
 print(data.shape)

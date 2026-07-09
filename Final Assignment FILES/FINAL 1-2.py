@@ -3,7 +3,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-spacex = pd.read_csv("spacex.csv")
+spacex = pd.read_csv("Final Assignment FILES\spacex.csv")
 #Variables
 
 open_price = spacex["Open"]

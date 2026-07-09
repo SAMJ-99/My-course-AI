@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 #Inserting values using Numpy with CSV
-Launches, successful, Failed, Budget, Successrate = np.genfromtxt('Space_Industry_Analytics_2010_2024.csv', delimiter=',', usecols=(2,3,4,6,9), unpack=True, dtype=None,skip_header=1)
+Launches, successful, Failed, Budget, Successrate = np.genfromtxt('Final Assignment FILES\Space_Industry_Analytics_2010_2024.csv', delimiter=',', usecols=(2,3,4,6,9), unpack=True, dtype=None,skip_header=1)
 
 print("All data is from 2010 to 2024")
 #Budget stats
